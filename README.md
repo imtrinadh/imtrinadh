@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imtrinadh
-- 👀 I’m interested in ...Java17,Spring 6.0/Spring Boot 3.0,Kafka,JavaScript,Angular and Node JS With AWS cloud Paltform.
+- 👀 I’m interested in ...Java 21,Spring 6.0/Spring Boot 3.0,Kafka,JavaScript,Angular 10,Node JS ,AWS cloud with Block Chain Platform.
 - 🌱 I’m currently learning ...Node JS, Reactive Programming (Webflux) and Kubernetes
 - 💞️ I’m looking to collaborate on ...Open source projects
-- 📫 How to reach me ...kolusu.trinadh@gmail.com/9581535995
+- 📫 How to reach me ...imtrinadh@gmail.com/9581535995
 -
 
 <!---
